@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 不想当程序猿的工程狮不是好科研狗
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "李金库|不想当程序猿的工程狮不是好科研狗"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://vaultli.com"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " vaultli"
+  email: jinkuli123@163.com
+  bio: "我热爱学习，学习使我感到快乐。"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
