@@ -41,7 +41,7 @@ Ps
 
 就像你在写一份文档，每次写都没有保存，每次都要重新来过，一次做很多件事不觉得烦，但一件事重复做很多次就会觉得很烦，于是我就想着，以后干脆想到什么就写什么，虽然这样更麻烦一点，但也只能这样了。
 
-![image-2015-06-17-10-51.png](http://upload-images.jianshu.io/upload_images/32598-b9ab149f1f314228.png)
+![image-2015-06-17-10-51.png](https://www.google.com/search?q=%E5%9B%BE%E7%89%87&tbm=isch&imgil=PIpQy-TaCbWALM%253A%253BbCm0pA4PXhOJkM%253Bhttp%25253A%25252F%25252Fwww.tooopen.com%25252Fview%25252F1304298.html&source=iu&pf=m&fir=PIpQy-TaCbWALM%253A%252CbCm0pA4PXhOJkM%252C_&usg=__eI5vwIp3UqJAncUi9ju7GHA1iGs%3D&biw=1438&bih=743&ved=0ahUKEwiW-6zqg53WAhUiSI8KHYMbCzAQyjcIOw&ei=l3O2WdbTIaKQvQSDt6yAAw#imgrc=5ag1HaTrh1XyCM:)
 
 写对于我就相当在每个人生阶段保存一下，再继续的时候无须重头再来，而且，当每次保存后，我都有一种重生的感觉。写让我感觉到以前走的路子并没有白走，即使是错的，也有错的价值，写下东西，像是节点记录，也像是错题集，总提醒我不要原地踏步。
 
