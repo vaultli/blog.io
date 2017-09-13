@@ -4,7 +4,7 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "vaultli|不想当程序猿的工程狮不是好科研狗"  
 baseurl: ""
-url: "http://vaultli.com"  
+url: "http://www.vaultli.com"  
 
 # About/contact
 owner: 
@@ -14,7 +14,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: img/my_favicon.png
 
 douban_username:  
 twitter_username: 
