@@ -9,6 +9,7 @@ description: Python编程语言学习博客，基础语法。
 ---
 
 ## 1. Python 简介
+
 Python 是一种解释型、面向对象、动态数据类型的高级程序设计语言，由荷兰计算机工程师 Guido van Rossum 于 1989 年发明，第一个公开发行版发行于 1991 年。Python 语言目前有 Python 2.x 和 Python 3.x 两个版本，为了不带入太多累赘，Python 3.x 在设计的时候没有考虑向下兼容。[Python 2.x 和 Python 3.x 两个版本语法上有一些区别](http://www.runoob.com/python/python-2x-3x.html)，本博客中涉及的语言版本为 Python 3.x 。
 
 利用下面的命令行可以查看使用的 Python 版本：
@@ -382,6 +383,7 @@ $ python -h
 调用 Python 的 `help()` 函数可以打印输出一个函数的帮助文档字符串。也可以利用 `somefunc.__doc__` 查看 `__doc__` 属性只得到帮助文档字符串（注意 doc 前后分别是两个下划线）。
 
 ## 3. 参考链接
+
 [菜鸟教程 Python 基础教程](http://www.runoob.com/python/python-tutorial.html): http://www.runoob.com/python/python-tutorial.html
 
 [菜鸟教程 Python 3 基础教程](http://www.runoob.com/python3/python3-tutorial.html): http://www.runoob.com/python3/python3-tutorial.html
