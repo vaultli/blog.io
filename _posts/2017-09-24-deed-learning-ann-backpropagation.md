@@ -5,7 +5,6 @@ date: 2017-09-24
 categories: blog
 tags: [神经网路,反向传播算法]
 description: 优达学城深度学习课程博客，神经网络及反向传播算法。
-
 ---
 
 <script type="text/javascript" async

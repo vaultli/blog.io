@@ -5,7 +5,6 @@ date: 2017-10-15
 categories: blog
 tags: [编程学习,Python,基础语法]
 description: Python编程语言学习博客，基础语法。
-
 ---
 
 ## 1. Python 简介

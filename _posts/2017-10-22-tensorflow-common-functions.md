@@ -5,7 +5,6 @@ date: 2017-10-22
 categories: blog
 tags: [TensorFlow,常用函数]
 description: TensorFlow 使用学习，常用函数。
-
 ---
 
 # 1. TensorFLow 简介

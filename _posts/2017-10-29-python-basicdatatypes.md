@@ -5,7 +5,6 @@ date: 2017-10-29
 categories: blog
 tags: [编程学习,Python,基本数据类型]
 description: Python编程语言学习博客，基本数据类型。
-
 ---
 
 掌握基本数据类型是学习任何一种编程语言的基础。Python 的基本数据类型与其他语言类似，不过也有自己的一些特点，本篇博客围绕着 Python 3 的基本数据类型进行介绍。 
